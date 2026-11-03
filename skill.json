@@ -1,0 +1,18 @@
+{
+  "name": "genpark-personal-agent-somatosensory-cutaneous-silent-period-spinal-skill",
+  "version": "1.0.0",
+  "description": "Calculates Cutaneous Silent Period (CSP) onset latency, duration, and suppression depth to evaluate spinal inhibitory interneurons and small-fiber A-delta sensory pathways.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "mcp": "mcp_server.py",
+  "categories": [
+    "personal-agent",
+    "somatosensory",
+    "electromyography",
+    "spinal-cord",
+    "cutaneous-silent-period",
+    "neurophysiology"
+  ],
+  "dependencies": []
+}
